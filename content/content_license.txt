@@ -1,0 +1,11 @@
+Files prefixed by "tos..." originate from Mango Open Movie project:
+    The proceedings and results of the Mango Open Movie project are being licensed under the Creative Commons Attribution 3.0 license. 
+    This includes all the data we publish on this website and which we’ll publish on the DVDs. 
+    If any content on this site is not licensed as such, it will be clearly indicated.
+    In short, this means you can freely reuse and distribute this content, also commercially, for as long you provide a proper attribution.
+    The attribution is (if not specifically mentioned otherwise):
+    (CC) Blender Foundation | mango.blender.org
+    Excluded from the Creative Commons license is: all logos on this website (including Blender logo, Mango logo, Creative Commons logo,
+    sponsor logos) and associated trademarks. Excluded is also material that’s clearly not resulting from the Mango project, 
+    such as magazine covers.
+
